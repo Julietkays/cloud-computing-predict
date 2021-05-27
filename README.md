@@ -1,4 +1,4 @@
-# Cloud Computing Predict
+# Juliet Cloud Computing Predict
 
 #### EXPLORE Data Science Academy Cloud Computing Predict
 ## Overview
